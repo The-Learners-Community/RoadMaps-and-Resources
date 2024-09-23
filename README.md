@@ -1,5 +1,5 @@
 # RoadMaps-and-Resources
-This repository is dedicated to providing structured and detailed learning paths for a variety of subjects, guiding learners from beginner to master levels. Whether you're starting your journey in web development, exploring data science, or diving into any other field, these roadmaps are designed to help you navigate your learning effectively.
+This repository is dedicated to providing structured and detailed learning paths and resources for a variety of subjects; guiding learners from beginner to master levels. Whether you're starting your journey in web development, exploring data science, or diving into any other field, these roadmaps and resources are designed to help you navigate your learning effectively. The roadmaps are inspired by templates from [roadmap.sh](https://roadmap.sh/)
 
 ---
 
