@@ -3,16 +3,16 @@ This repository is dedicated to providing structured and detailed learning paths
 
 ---
 
-🎯 **Objectives**
+## 🎯 **Objectives**
 
-- **Multi-Disciplinary Paths**: Cover a wide range of subjects beyond front-end development, including back-end, full-stack, DevOps, data science, cybersecurity, and more.
+- **Multi-Disciplinary Paths**: Cover a wide range of subjects including Engineering, Data Science, Business and Economics, Machine Learning, Cybersecurity, and more...
 - **Structured Learning**: Offer organized paths that take you from fundamental concepts to advanced topics in a systematic manner.
 - **Flexible Progression**: Allow learners to customize their journey based on their interests and prior knowledge.
-- **Up-to-Date Content**: Keep the roadmaps current with industry trends and emerging technologies.
+- **Up-to-Date Content**: Keep the roadmaps current with industry trends and emerging technologies and paradigms
 
 ---
 
-👥 **Who Is This For?**
+## 👥 **Who Is This For?**
 
 - **Beginners**: Individuals new to a subject looking for a clear starting point.
 - **Intermediate Learners**: Those with some experience aiming to deepen their understanding.
