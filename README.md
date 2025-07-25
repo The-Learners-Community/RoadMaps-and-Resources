@@ -47,6 +47,7 @@ This repository is dedicated to providing structured and detailed learning paths
 - [Machine Learning in Finance](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/Machine-Learning-in-Finance)
 - [Mobile App Development](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/Mobile-App-Development)
 - [Product Design](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/Product-Design)
+- [Protocol Engineering](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/Protocol-Engineering)
 - [Quantitative Finance](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/Quantitative-Finance)
 - [React Native Engineering](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/React-Native-Engineering)
 - [Systems Engineering](https://github.com/The-Learners-Community/RoadMaps-and-Resources/wiki/Systems-Engineering)
